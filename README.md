@@ -1,7 +1,10 @@
 <h1 align="center">Hi 😎, I'm Briantoro Falah</h1>
-<h3>Founder of ZetoonIK</h3>
+<h3 align="center">Founder of ZetoonIK</h3>
 <br>
-<!-- MY README SVG -->
-<p align="center">
-  <img src="readmebox.svg">
-</p>
+
+<!-- Connect me -->
+<h1 align="center">Connect with me:</h1>
+<div>
+<a href="https://www.instagram.com/brianfalahh/"><img  align="center" src="instagram-2016-logo-svgrepo-com.svg"></img></a>
+<a href="https://www.linkedin.com/in/briantoro-falah-1b0b17347/"><img  align="center" src="linkedin-svgrepo-com.svg"></img></a>
+</div>
