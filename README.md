@@ -2,6 +2,12 @@
 <h3 align="center">Founder of ZetoonIK</h3>
 <br>
 
+![](https://komarev.com/ghpvc/?username=Briantoroflh&style=flat-square)
+
+- 🏠 Indonesia, Jawa Barat 
+- 📫 How to reach me **Briantoroflh@gmail.com**
+- 👨‍💻 You can also check out my portfolio at [https://github.com/Briantoroflh](https://github.com/Briantoroflh)
+
 <!-- Connect me -->
 <h1 align="center">Connect with me:</h1>
 <div align="center">
