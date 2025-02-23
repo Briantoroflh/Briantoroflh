@@ -5,6 +5,6 @@
 <!-- Connect me -->
 <h1 align="center">Connect with me:</h1>
 <div>
-<a href="https://www.instagram.com/brianfalahh/"><img  align="center" src="instagram-2016-logo-svgrepo-com.svg"></img></a>
-<a href="https://www.linkedin.com/in/briantoro-falah-1b0b17347/"><img  align="center" src="linkedin-svgrepo-com.svg"></img></a>
+<a href="https://www.instagram.com/brianfalahh/"><img  align="center" src="instagram-2016-logo-svgrepo-com.svg" height="30" witdh="40"></img></a>
+<a href="https://www.linkedin.com/in/briantoro-falah-1b0b17347/" height="30" witdh="40"><img  align="center" src="linkedin-svgrepo-com.svg"></img></a>
 </div>
