@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Briantoroflh&style=flat-square)
 
 - 🏠 Indonesia, Jawa Barat 
-- 📫 How to reach me **Briantoroflh@gmail.com**
+- 📫 How to reach me **briantoroflh@gmail.com**
 - 👨‍💻 You can also check out my portfolio at [https://github.com/Briantoroflh](https://github.com/Briantoroflh)
 
 <!-- Connect me -->
