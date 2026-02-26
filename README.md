@@ -1,5 +1,4 @@
 <h1 align="center">Hi 😎, I'm Briantoro Falah</h1>
-<h3 align="center">Founder of ZetoonIK</h3>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Briantoroflh&style=flat-square)
